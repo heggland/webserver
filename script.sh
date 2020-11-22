@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # apache, mariadb, phpmyadmin
 
 echo "> Installing apache webserver"
