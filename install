@@ -1,0 +1,2 @@
+echo "Starting setup .."
+sudo ./script.sh
